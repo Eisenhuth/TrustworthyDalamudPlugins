@@ -1,0 +1,26 @@
+[
+    {
+        "Author": "Eisenhuth",
+        "Name": "Nael'd it for UCOB",
+        "Description": "Translates Nael's quotes into mechanics.",
+        "Punchline": "because reading chat is not a mechanic",
+        "Tags": [
+            "ui",
+            "chat"
+          ],
+        "InternalName": "NaelPlugin",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/Eisenhuth/dalamud-nael",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 6,
+        "IconUrl": "",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "0"
+    }
+]
