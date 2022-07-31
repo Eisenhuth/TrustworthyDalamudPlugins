@@ -1,3 +1,9 @@
+# Contents
+
+|Plugin|Description|source|
+|---|---|----|
+|Nael'd it for UCOB|translates Nael's quotes into mechanics|https://github.com/Eisenhuth/dalamud-nael|
+
 # Installation
 
 - copy the URL: `https://raw.githubusercontent.com/Eisenhuth/TrustworthyDalamudPlugins/master/pluginmaster.json`
