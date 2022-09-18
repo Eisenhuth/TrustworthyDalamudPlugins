@@ -9,10 +9,10 @@
             "chat"
           ],
         "InternalName": "NaelPlugin",
-        "AssemblyVersion": "1.1.0.0",
+        "AssemblyVersion": "1.1.1.0",
         "RepoUrl": "https://github.com/Eisenhuth/dalamud-nael",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 6,
+        "DalamudApiLevel": 7,
         "IconUrl": "",
         "ImageUrls": [],
         "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
