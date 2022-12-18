@@ -1,8 +1,8 @@
 # Contents
 
-|Plugin|Description|source|
-|---|---|----|
-|Nael'd it for UCOB|translates Nael's quotes into mechanics|https://github.com/Eisenhuth/dalamud-nael|
+|Plugin|Description|source|downloads|
+|---|---|---|---|
+|Nael'd it for UCOB|translates Nael's quotes into mechanics|[Eisenhuth/dalamud-nael](https://github.com/Eisenhuth/dalamud-nael)|[![Github All Releases](https://img.shields.io/github/downloads/Eisenhuth/dalamud-nael/total.svg)]()|
 
 # Installation
 
