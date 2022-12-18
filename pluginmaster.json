@@ -24,5 +24,28 @@
         "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "0"
+    }.
+    {
+        "Author": "Eisenhuth",
+        "Name": "Dalamud Restart",
+        "Description": "quickly restarts the game",
+        "Punchline": "the option from the /xldev menu, now as a chat command",
+        "Tags": [
+            "restart",
+            "utility"
+          ],
+        "InternalName": "RestartPlugin",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/Eisenhuth/dalamud-restart",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 7,
+        "IconUrl": "",
+        "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-restart/releases/latest/download/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-restart/releases/latest/download/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-restart/releases/latest/download/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdated": "0"
     }
 ]
