@@ -3,6 +3,7 @@
 |Plugin|Description|source|downloads|
 |---|---|---|---|
 |Nael'd it for UCOB|translates Nael's quotes into mechanics|[Eisenhuth/dalamud-nael](https://github.com/Eisenhuth/dalamud-nael)|[![Github All Releases](https://img.shields.io/github/downloads/Eisenhuth/dalamud-nael/total.svg)]()|
+|Dalamud Restart|quickly restarts the game|[Eisenhuth/dalamud-restart](https://github.com/Eisenhuth/dalamud-restart)|[![Github All Releases](https://img.shields.io/github/downloads/Eisenhuth/dalamud-restart/total.svg)]()|
 
 # Installation
 
