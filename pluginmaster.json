@@ -24,7 +24,7 @@
         "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
         "DownloadCount": 0,
         "LastUpdated": "0"
-    }.
+    },
     {
         "Author": "Eisenhuth",
         "Name": "Dalamud Restart",
@@ -40,6 +40,7 @@
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
         "IconUrl": "",
+        "ImageUrls": [],
         "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-restart/releases/latest/download/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
