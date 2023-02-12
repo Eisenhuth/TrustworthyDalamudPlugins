@@ -1,0 +1,19 @@
+{
+  "Author": "Eisenhuth",
+  "Name": "Dalamud Restart",
+  "InternalName": "RestartPlugin",
+  "AssemblyVersion": "1.0.1.1",
+  "Description": "quickly restarts the game",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Eisenhuth/dalamud-restart",
+  "Tags": [
+    "restart",
+    "utility"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "Punchline": "the option from the /xldev menu, now as a chat command",
+  "AcceptsFeedback": true
+}

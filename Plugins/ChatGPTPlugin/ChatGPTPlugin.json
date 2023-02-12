@@ -1,0 +1,20 @@
+{
+  "Author": "Eisenhuth",
+  "Name": "ChatGPT for FFXIV",
+  "InternalName": "ChatGPTPlugin",
+  "AssemblyVersion": "1.0.1.1",
+  "Description": "Lets you interact with ChatGPT through the in-game chat. Configuration requires an API key.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Eisenhuth/dalamud-chatgpt",
+  "Tags": [
+    "ui",
+    "chat",
+    "ai"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "Punchline": "has science gone too far?",
+  "AcceptsFeedback": true
+}
