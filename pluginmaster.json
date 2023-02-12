@@ -1,77 +1,76 @@
 [
-    {
-        "Author": "Eisenhuth",
-        "Name": "Nael'd it for UCOB",
-        "Description": "Translates Nael's quotes into mechanics.",
-        "Punchline": "because reading chat is not a mechanic",
-        "Tags": [
-            "ui",
-            "chat"
-          ],
-        "InternalName": "NaelPlugin",
-        "AssemblyVersion": "1.1.3.0",
-        "RepoUrl": "https://github.com/Eisenhuth/dalamud-nael",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "IconUrl": "",
-        "ImageUrls": [
-            "https://user-images.githubusercontent.com/47415874/185758778-a5945970-cf8b-455b-beec-c7489b3c7011.png"
-        ],
-        "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
-        "DownloadCount": 416,
-        "LastUpdated": "0"
-    },
-    {
-        "Author": "Eisenhuth",
-        "Name": "Dalamud Restart",
-        "Description": "quickly restarts the game",
-        "Punchline": "the option from the /xldev menu, now as a chat command",
-        "Tags": [
-            "restart",
-            "utility"
-          ],
-        "InternalName": "RestartPlugin",
-        "AssemblyVersion": "1.0.1.0",
-        "RepoUrl": "https://github.com/Eisenhuth/dalamud-restart",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "IconUrl": "",
-        "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-restart/releases/latest/download/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-restart/releases/latest/download/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-restart/releases/latest/download/latest.zip",
-        "DownloadCount": 57,
-        "LastUpdated": "0"
-    },
-    {
-        "Author": "Eisenhuth",
-        "Name": "ChatGPT for FFXIV",
-        "Description": "Lets you interact with ChatGPT through the in-game chat. Configuration requires an API key.",
-        "Punchline": "has science gone too far?",
-        "Tags": [
-            "ui",
-            "chat",
-            "ai"
-          ],
-        "InternalName": "ChatGPTPlugin",
-        "AssemblyVersion": "1.0.1.0",
-        "RepoUrl": "https://github.com/Eisenhuth/dalamud-chatgpt",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "IconUrl": "",
-        "ImageUrls": [],
-        "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
-        "DownloadCount": 27,
-        "LastUpdated": "0"
-    }
+  {
+    "Author": "Eisenhuth",
+    "Name": "Dalamud Restart",
+    "Description": "quickly restarts the game",
+    "Punchline": "the option from the /xldev menu, now as a chat command",
+    "Tags": [
+      "restart",
+      "utility"
+    ],
+    "InternalName": "RestartPlugin",
+    "AssemblyVersion": "1.0.1.1",
+    "RepoUrl": "https://github.com/Eisenhuth/dalamud-restart",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "IconUrl": "",
+    "ImageUrls": null,
+    "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-restart/releases/latest/download/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-restart/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-restart/releases/latest/download/latest.zip",
+    "DownloadCount": 63,
+    "LastUpdated": 1676169164
+  },
+  {
+    "Author": "Eisenhuth",
+    "Name": "ChatGPT for FFXIV",
+    "Description": "Lets you interact with ChatGPT through the in-game chat. Configuration requires an API key.",
+    "Punchline": "has science gone too far?",
+    "Tags": [
+      "ui",
+      "chat",
+      "ai"
+    ],
+    "InternalName": "ChatGPTPlugin",
+    "AssemblyVersion": "1.0.1.1",
+    "RepoUrl": "https://github.com/Eisenhuth/dalamud-chatgpt",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "IconUrl": "",
+    "ImageUrls": null,
+    "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
+    "DownloadCount": 36,
+    "LastUpdated": 1676169015
+  },
+  {
+    "Author": "Eisenhuth",
+    "Name": "Nael'd it for UCOB",
+    "Description": "Translates Nael's quotes into mechanics.",
+    "Punchline": "because reading chat is not a mechanic",
+    "Tags": [
+      "ui"
+    ],
+    "InternalName": "NaelPlugin",
+    "AssemblyVersion": "1.1.3.0",
+    "RepoUrl": "https://github.com/Eisenhuth/dalamud-nael",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "IconUrl": "",
+    "ImageUrls": [
+      "https://user-images.githubusercontent.com/47415874/185758778-a5945970-cf8b-455b-beec-c7489b3c7011.png"
+    ],
+    "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
+    "DownloadCount": 430,
+    "LastUpdated": 1673805928
+  }
 ]
