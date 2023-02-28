@@ -20,7 +20,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-restart/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-restart/releases/latest/download/latest.zip",
-    "DownloadCount": 101,
+    "DownloadCount": 103,
     "LastUpdated": 1676169164
   },
   {
@@ -45,7 +45,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
-    "DownloadCount": 57,
+    "DownloadCount": 59,
     "LastUpdated": 1676169015
   },
   {
@@ -57,7 +57,7 @@
       "ui"
     ],
     "InternalName": "NaelPlugin",
-    "AssemblyVersion": "1.2.2.0",
+    "AssemblyVersion": "1.2.3.0",
     "RepoUrl": "https://github.com/Eisenhuth/dalamud-nael",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -70,7 +70,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
-    "DownloadCount": 496,
-    "LastUpdated": 1677528291
+    "DownloadCount": 526,
+    "LastUpdated": 1677621274
   }
 ]
