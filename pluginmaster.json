@@ -21,7 +21,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
-    "DownloadCount": 582,
+    "DownloadCount": 583,
     "LastUpdated": 1677621274
   },
   {
@@ -35,7 +35,7 @@
       "ai"
     ],
     "InternalName": "ChatGPTPlugin",
-    "AssemblyVersion": "1.0.2.0",
+    "AssemblyVersion": "1.0.3.0",
     "RepoUrl": "https://github.com/Eisenhuth/dalamud-chatgpt",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -46,8 +46,8 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
-    "DownloadCount": 87,
-    "LastUpdated": 1678654959
+    "DownloadCount": 90,
+    "LastUpdated": 1679095642
   },
   {
     "Author": "Eisenhuth",
@@ -70,7 +70,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-restart/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-restart/releases/latest/download/latest.zip",
-    "DownloadCount": 111,
+    "DownloadCount": 112,
     "LastUpdated": 1676169164
   }
 ]
