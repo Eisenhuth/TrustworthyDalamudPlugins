@@ -21,7 +21,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
-    "DownloadCount": 765,
+    "DownloadCount": 783,
     "LastUpdated": 1680813643
   },
   {
@@ -46,7 +46,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
-    "DownloadCount": 180,
+    "DownloadCount": 183,
     "LastUpdated": 1679804649
   },
   {
@@ -70,7 +70,31 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-restart/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-restart/releases/latest/download/latest.zip",
-    "DownloadCount": 137,
+    "DownloadCount": 138,
     "LastUpdated": 1676169164
+  },
+  {
+    "Author": "Eisenhuth",
+    "Name": "LogChamp",
+    "Description": "automatically deletes your ACT logs after a configurable amount of time",
+    "Punchline": "keep your ACT's FFXIVLogs folder in check",
+    "Tags": [
+      "log",
+      "act"
+    ],
+    "InternalName": "LogchampPlugin",
+    "AssemblyVersion": "1.0.0.0",
+    "RepoUrl": "https://github.com/Eisenhuth/dalamud-logchamp",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "IconUrl": "",
+    "ImageUrls": [],
+    "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
+    "DownloadCount": 0,
+    "LastUpdated": 1682292841
   }
 ]
