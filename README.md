@@ -5,6 +5,7 @@
 |![nael release (latest by date)](https://img.shields.io/github/v/release/Eisenhuth/dalamud-nael?label=Nael%27d%20it%20for%20UCOB)|translates Nael's quotes into mechanics|[Eisenhuth/dalamud-nael](https://github.com/Eisenhuth/dalamud-nael)|[![Github All Releases](https://img.shields.io/github/downloads/Eisenhuth/dalamud-nael/total.svg)]()|
 |![restart release (latest by date)](https://img.shields.io/github/v/release/Eisenhuth/dalamud-restart?label=Dalamud%20Restart)|quickly restarts the game|[Eisenhuth/dalamud-restart](https://github.com/Eisenhuth/dalamud-restart)|[![Github All Releases](https://img.shields.io/github/downloads/Eisenhuth/dalamud-restart/total.svg)]()|
 |![chatgpt release (latest by date)](https://img.shields.io/github/v/release/Eisenhuth/dalamud-chatgpt?label=ChatGPT%20for%20FFXIV)|using the OpenAI API from the in-game chat|[Eisenhuth/dalamud-chatgpt](https://github.com/Eisenhuth/dalamud-chatgpt)|[![Github All Releases](https://img.shields.io/github/downloads/Eisenhuth/dalamud-chatgpt/total.svg)]()|
+|![logchamp release (latest by date)](https://img.shields.io/github/v/release/Eisenhuth/dalamud-logchamp?label=LogChamp)|keeps your ACT's FFXIVLogs folder in check|[Eisenhuth/dalamud-logchamp](https://github.com/Eisenhuth/dalamud-logchamp)|[![Github All Releases](https://img.shields.io/github/downloads/Eisenhuth/dalamud-logchamp/total.svg)]()|
 
 # Installation
 
