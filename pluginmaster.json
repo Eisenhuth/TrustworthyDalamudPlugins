@@ -21,7 +21,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
-    "DownloadCount": 783,
+    "DownloadCount": 784,
     "LastUpdated": 1680813643
   },
   {
@@ -46,7 +46,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
-    "DownloadCount": 183,
+    "DownloadCount": 184,
     "LastUpdated": 1679804649
   },
   {
@@ -83,18 +83,20 @@
       "act"
     ],
     "InternalName": "LogchampPlugin",
-    "AssemblyVersion": "1.0.0.0",
+    "AssemblyVersion": "1.0.1.0",
     "RepoUrl": "https://github.com/Eisenhuth/dalamud-logchamp",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
     "IconUrl": "",
-    "ImageUrls": [],
+    "ImageUrls": [
+      "https://user-images.githubusercontent.com/47415874/233871863-846e1485-fd0f-429e-bc23-3f6009478a16.png"
+    ],
     "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
-    "DownloadCount": 0,
-    "LastUpdated": 1682292841
+    "DownloadCount": 3,
+    "LastUpdated": 1682351107
   }
 ]
