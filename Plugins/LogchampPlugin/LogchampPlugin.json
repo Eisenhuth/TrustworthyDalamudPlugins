@@ -2,7 +2,7 @@
   "Author": "Eisenhuth",
   "Name": "LogChamp",
   "InternalName": "LogchampPlugin",
-  "AssemblyVersion": "1.0.1.0",
+  "AssemblyVersion": "1.0.1.1",
   "Description": "automatically deletes your ACT logs after a configurable amount of time",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Eisenhuth/dalamud-logchamp",
