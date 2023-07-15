@@ -4,6 +4,7 @@
     "Name": "Dalamud Restart",
     "Description": "quickly restarts the game",
     "Punchline": "the option from the /xldev menu, now as a chat command",
+    "Changelog": "",
     "Tags": [
       "restart",
       "utility"
@@ -28,11 +29,12 @@
     "Name": "Nael'd it for UCOB",
     "Description": "Translates Nael's quotes into mechanics.",
     "Punchline": "because reading chat is not a mechanic",
+    "Changelog": "- added support for chinese (if client language isn't EN/DE/FR/JP)\n- this completes all languages that I currently have access to through APIs",
     "Tags": [
       "ui"
     ],
     "InternalName": "NaelPlugin",
-    "AssemblyVersion": "1.3.1.0",
+    "AssemblyVersion": "1.4.0.0",
     "RepoUrl": "https://github.com/Eisenhuth/dalamud-nael",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
@@ -45,14 +47,15 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
-    "DownloadCount": 1046,
-    "LastUpdated": 1684015971
+    "DownloadCount": 1047,
+    "LastUpdated": 1689387371
   },
   {
     "Author": "Eisenhuth",
     "Name": "LogChamp",
     "Description": "automatically deletes your ACT logs after a configurable amount of time",
     "Punchline": "keep your ACT's FFXIVLogs folder in check",
+    "Changelog": "",
     "Tags": [
       "log",
       "act"
@@ -71,7 +74,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
-    "DownloadCount": 95,
+    "DownloadCount": 96,
     "LastUpdated": 1684271180
   },
   {
@@ -79,6 +82,7 @@
     "Name": "ChatGPT for FFXIV",
     "Description": "Lets you interact with ChatGPT through the in-game chat. Configuration requires an API key.",
     "Punchline": "has science gone too far?",
+    "Changelog": "",
     "Tags": [
       "ui",
       "chat",
@@ -96,7 +100,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
-    "DownloadCount": 252,
+    "DownloadCount": 253,
     "LastUpdated": 1679804649
   }
 ]
