@@ -16,6 +16,7 @@ type Plugin struct {
 	Name                string   `json:"Name"`
 	Description         string   `json:"Description"`
 	Punchline           string   `json:"Punchline"`
+	Changelog           string   `json:"Changelog"`
 	Tags                []string `json:"Tags"`
 	InternalName        string   `json:"InternalName"`
 	AssemblyVersion     string   `json:"AssemblyVersion"`
