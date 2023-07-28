@@ -21,7 +21,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-restart/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-restart/releases/latest/download/latest.zip",
-    "DownloadCount": 201,
+    "DownloadCount": 205,
     "LastUpdated": 1676169164
   },
   {
@@ -47,7 +47,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
-    "DownloadCount": 1191,
+    "DownloadCount": 1214,
     "LastUpdated": 1689387371
   },
   {
@@ -74,7 +74,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
-    "DownloadCount": 140,
+    "DownloadCount": 146,
     "LastUpdated": 1689421032
   },
   {
@@ -100,7 +100,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
-    "DownloadCount": 253,
+    "DownloadCount": 257,
     "LastUpdated": 1679804649
   }
 ]
