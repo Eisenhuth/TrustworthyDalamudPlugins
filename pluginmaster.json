@@ -1,28 +1,29 @@
 [
   {
     "Author": "Eisenhuth",
-    "Name": "Dalamud Restart",
-    "Description": "quickly restarts the game",
-    "Punchline": "the option from the /xldev menu, now as a chat command",
+    "Name": "ChatGPT for FFXIV",
+    "Description": "Lets you interact with ChatGPT through the in-game chat. Configuration requires an API key.",
+    "Punchline": "has science gone too far?",
     "Changelog": "",
     "Tags": [
-      "restart",
-      "utility"
+      "ui",
+      "chat",
+      "ai"
     ],
-    "InternalName": "RestartPlugin",
-    "AssemblyVersion": "1.0.1.1",
-    "RepoUrl": "https://github.com/Eisenhuth/dalamud-restart",
+    "InternalName": "ChatGPTPlugin",
+    "AssemblyVersion": "1.0.5.0",
+    "RepoUrl": "https://github.com/Eisenhuth/dalamud-chatgpt",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
     "IconUrl": "",
     "ImageUrls": null,
-    "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-restart/releases/latest/download/latest.zip",
+    "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-restart/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-restart/releases/latest/download/latest.zip",
-    "DownloadCount": 250,
-    "LastUpdated": 1676169164
+    "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
+    "DownloadCount": 300,
+    "LastUpdated": 1679804649
   },
   {
     "Author": "Eisenhuth",
@@ -47,34 +48,8 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
-    "DownloadCount": 1383,
+    "DownloadCount": 1403,
     "LastUpdated": 1689387371
-  },
-  {
-    "Author": "Eisenhuth",
-    "Name": "ChatGPT for FFXIV",
-    "Description": "Lets you interact with ChatGPT through the in-game chat. Configuration requires an API key.",
-    "Punchline": "has science gone too far?",
-    "Changelog": "",
-    "Tags": [
-      "ui",
-      "chat",
-      "ai"
-    ],
-    "InternalName": "ChatGPTPlugin",
-    "AssemblyVersion": "1.0.5.0",
-    "RepoUrl": "https://github.com/Eisenhuth/dalamud-chatgpt",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 8,
-    "IconUrl": "",
-    "ImageUrls": null,
-    "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
-    "DownloadCount": 295,
-    "LastUpdated": 1679804649
   },
   {
     "Author": "Eisenhuth",
@@ -100,7 +75,32 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
-    "DownloadCount": 250,
+    "DownloadCount": 251,
     "LastUpdated": 1691324174
+  },
+  {
+    "Author": "Eisenhuth",
+    "Name": "Dalamud Restart",
+    "Description": "quickly restarts the game",
+    "Punchline": "the option from the /xldev menu, now as a chat command",
+    "Changelog": "",
+    "Tags": [
+      "restart",
+      "utility"
+    ],
+    "InternalName": "RestartPlugin",
+    "AssemblyVersion": "1.0.1.1",
+    "RepoUrl": "https://github.com/Eisenhuth/dalamud-restart",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 8,
+    "IconUrl": "",
+    "ImageUrls": null,
+    "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-restart/releases/latest/download/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-restart/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-restart/releases/latest/download/latest.zip",
+    "DownloadCount": 255,
+    "LastUpdated": 1676169164
   }
 ]
