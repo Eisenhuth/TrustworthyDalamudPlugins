@@ -22,34 +22,8 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
-    "DownloadCount": 2723,
+    "DownloadCount": 2767,
     "LastUpdated": 1700364771
-  },
-  {
-    "Author": "Eisenhuth",
-    "Name": "ChatGPT for FFXIV",
-    "Description": "Lets you interact with ChatGPT through the in-game chat. Configuration requires an API key.",
-    "Punchline": "has science gone too far?",
-    "Changelog": "- updated to Dalamud API9",
-    "Tags": [
-      "ui",
-      "chat",
-      "ai"
-    ],
-    "InternalName": "ChatGPTPlugin",
-    "AssemblyVersion": "1.0.6.0",
-    "RepoUrl": "https://github.com/Eisenhuth/dalamud-chatgpt",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 9,
-    "IconUrl": "",
-    "ImageUrls": null,
-    "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
-    "DownloadCount": 377,
-    "LastUpdated": 1696248877
   },
   {
     "Author": "Eisenhuth",
@@ -75,7 +49,33 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
-    "DownloadCount": 449,
+    "DownloadCount": 455,
     "LastUpdated": 1698959454
+  },
+  {
+    "Author": "Eisenhuth",
+    "Name": "ChatGPT for FFXIV",
+    "Description": "Lets you interact with ChatGPT through the in-game chat. Configuration requires an API key.",
+    "Punchline": "has science gone too far?",
+    "Changelog": "- updated to Dalamud API9",
+    "Tags": [
+      "ui",
+      "chat",
+      "ai"
+    ],
+    "InternalName": "ChatGPTPlugin",
+    "AssemblyVersion": "1.0.6.0",
+    "RepoUrl": "https://github.com/Eisenhuth/dalamud-chatgpt",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 9,
+    "IconUrl": "",
+    "ImageUrls": null,
+    "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
+    "DownloadCount": 381,
+    "LastUpdated": 1696248877
   }
 ]
