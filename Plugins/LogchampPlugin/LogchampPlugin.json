@@ -2,7 +2,7 @@
   "Author": "Eisenhuth",
   "Name": "LogChamp",
   "InternalName": "LogchampPlugin",
-  "AssemblyVersion": "1.0.5.0",
+  "AssemblyVersion": "1.0.6.0",
   "Description": "automatically deletes your ACT logs after a configurable amount of time",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/Eisenhuth/dalamud-logchamp",
@@ -19,6 +19,6 @@
     "https://user-images.githubusercontent.com/47415874/233871863-846e1485-fd0f-429e-bc23-3f6009478a16.png"
   ],
   "Punchline": "keep your ACT's FFXIVLogs folder in check",
-  "Changelog": "- fixed a potential issue where non-log-files could get deleted",
+  "Changelog": "- added total saved counter in /logs menu",
   "AcceptsFeedback": true
 }
