@@ -7,7 +7,7 @@
 | ![chatgpt release (latest by date)](https://img.shields.io/github/v/release/Eisenhuth/dalamud-chatgpt?label=ChatGPT%20for%20FFXIV) | using the OpenAI API from the in-game chat | [Eisenhuth/dalamud-chatgpt](https://github.com/Eisenhuth/dalamud-chatgpt)   | [![Github All Releases](https://img.shields.io/github/downloads/Eisenhuth/dalamud-chatgpt/total.svg)]()  |
 
 <details>
-<summary><strong>removed plugins</strong></summary>
+<summary><strong>retired plugins</strong></summary>
 <dl>
     <dt><a href="https://github.com/Eisenhuth/dalamud-restart">dalamud-restart</a></dt>
         <dd>obsolete, functionality has been added directly to Dalamud</dd>
