@@ -1,33 +1,6 @@
 [
   {
     "Author": "Eisenhuth",
-    "Name": "LogChamp",
-    "Description": "automatically deletes your ACT logs after a configurable amount of time",
-    "Punchline": "keep your ACT's FFXIVLogs folder in check",
-    "Changelog": "- updated for Dalamud apiX",
-    "Tags": [
-      "log",
-      "act"
-    ],
-    "InternalName": "LogchampPlugin",
-    "AssemblyVersion": "1.0.7.0",
-    "RepoUrl": "https://github.com/Eisenhuth/dalamud-logchamp",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 10,
-    "IconUrl": "",
-    "ImageUrls": [
-      "https://user-images.githubusercontent.com/47415874/233871863-846e1485-fd0f-429e-bc23-3f6009478a16.png"
-    ],
-    "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
-    "DownloadCount": 822,
-    "LastUpdated": 1719960815
-  },
-  {
-    "Author": "Eisenhuth",
     "Name": "Nael'd it for UCOB",
     "Description": "Translates Nael's quotes into mechanics.",
     "Punchline": "because reading chat is not a mechanic",
@@ -49,7 +22,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
-    "DownloadCount": 4354,
+    "DownloadCount": 5155,
     "LastUpdated": 1719961026
   },
   {
@@ -75,7 +48,34 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
-    "DownloadCount": 588,
+    "DownloadCount": 619,
     "LastUpdated": 1719960911
+  },
+  {
+    "Author": "Eisenhuth",
+    "Name": "LogChamp",
+    "Description": "automatically deletes your ACT logs after a configurable amount of time",
+    "Punchline": "keep your ACT's FFXIVLogs folder in check",
+    "Changelog": "- updated for Dalamud apiX",
+    "Tags": [
+      "log",
+      "act"
+    ],
+    "InternalName": "LogchampPlugin",
+    "AssemblyVersion": "1.0.7.0",
+    "RepoUrl": "https://github.com/Eisenhuth/dalamud-logchamp",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 10,
+    "IconUrl": "",
+    "ImageUrls": [
+      "https://user-images.githubusercontent.com/47415874/233871863-846e1485-fd0f-429e-bc23-3f6009478a16.png"
+    ],
+    "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
+    "DownloadCount": 934,
+    "LastUpdated": 1719960815
   }
 ]
