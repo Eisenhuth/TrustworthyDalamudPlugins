@@ -22,7 +22,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
-    "DownloadCount": 769,
+    "DownloadCount": 770,
     "LastUpdated": 1731676162
   },
   {
@@ -49,7 +49,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
-    "DownloadCount": 2281,
+    "DownloadCount": 2283,
     "LastUpdated": 1731676109
   },
   {
@@ -57,12 +57,12 @@
     "Name": "Nael'd it for UCOB",
     "Description": "Translates Nael's quotes into mechanics.",
     "Punchline": "because reading chat is not a mechanic",
-    "Changelog": "- updated for Dalamud apiX",
+    "Changelog": "- added optional Dawntrail Text popup",
     "Tags": [
       "ui"
     ],
     "InternalName": "NaelPlugin",
-    "AssemblyVersion": "1.4.6.0",
+    "AssemblyVersion": "1.5.0.0",
     "RepoUrl": "https://github.com/Eisenhuth/dalamud-nael",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 11,
@@ -75,7 +75,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
-    "DownloadCount": 7290,
-    "LastUpdated": 1731675996
+    "DownloadCount": 7297,
+    "LastUpdated": 1734746190
   }
 ]
