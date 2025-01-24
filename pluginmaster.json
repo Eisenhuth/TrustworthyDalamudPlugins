@@ -1,6 +1,32 @@
 [
   {
     "Author": "Eisenhuth",
+    "Name": "Nael'd it for UCOB",
+    "Description": "Translates Nael's quotes into mechanics.",
+    "Punchline": "because reading chat is not a mechanic",
+    "Changelog": "- added optional Dawntrail Text popup",
+    "Tags": [
+      "ui"
+    ],
+    "InternalName": "NaelPlugin",
+    "AssemblyVersion": "1.5.0.0",
+    "RepoUrl": "https://github.com/Eisenhuth/dalamud-nael",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 11,
+    "IconUrl": "",
+    "ImageUrls": [
+      "https://user-images.githubusercontent.com/47415874/229924485-b9589532-f193-47ec-ad97-973218d4c916.png"
+    ],
+    "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
+    "DownloadCount": 8535,
+    "LastUpdated": 1734746190
+  },
+  {
+    "Author": "Eisenhuth",
     "Name": "ChatGPT for FFXIV",
     "Description": "Lets you interact with ChatGPT through the in-game chat. Configuration requires an API key.",
     "Punchline": "has science gone too far?",
@@ -22,7 +48,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
-    "DownloadCount": 788,
+    "DownloadCount": 790,
     "LastUpdated": 1731676162
   },
   {
@@ -49,33 +75,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
-    "DownloadCount": 2350,
+    "DownloadCount": 2360,
     "LastUpdated": 1731676109
-  },
-  {
-    "Author": "Eisenhuth",
-    "Name": "Nael'd it for UCOB",
-    "Description": "Translates Nael's quotes into mechanics.",
-    "Punchline": "because reading chat is not a mechanic",
-    "Changelog": "- added optional Dawntrail Text popup",
-    "Tags": [
-      "ui"
-    ],
-    "InternalName": "NaelPlugin",
-    "AssemblyVersion": "1.5.0.0",
-    "RepoUrl": "https://github.com/Eisenhuth/dalamud-nael",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 11,
-    "IconUrl": "",
-    "ImageUrls": [
-      "https://user-images.githubusercontent.com/47415874/229924485-b9589532-f193-47ec-ad97-973218d4c916.png"
-    ],
-    "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
-    "DownloadCount": 8489,
-    "LastUpdated": 1734746190
   }
 ]
