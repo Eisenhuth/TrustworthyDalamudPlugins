@@ -22,8 +22,34 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
-    "DownloadCount": 872,
+    "DownloadCount": 877,
     "LastUpdated": 1742945193
+  },
+  {
+    "Author": "Eisenhuth",
+    "Name": "Nael'd it for UCOB",
+    "Description": "Translates Nael's quotes into mechanics.",
+    "Punchline": "because reading chat is not a mechanic",
+    "Changelog": "- updated for Dalamud api12",
+    "Tags": [
+      "ui"
+    ],
+    "InternalName": "NaelPlugin",
+    "AssemblyVersion": "1.5.0.1",
+    "RepoUrl": "https://github.com/Eisenhuth/dalamud-nael",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 12,
+    "IconUrl": "",
+    "ImageUrls": [
+      "https://user-images.githubusercontent.com/47415874/229924485-b9589532-f193-47ec-ad97-973218d4c916.png"
+    ],
+    "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
+    "DownloadCount": 10185,
+    "LastUpdated": 1742945006
   },
   {
     "Author": "Eisenhuth",
@@ -49,33 +75,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
-    "DownloadCount": 3129,
+    "DownloadCount": 3140,
     "LastUpdated": 1742945099
-  },
-  {
-    "Author": "Eisenhuth",
-    "Name": "Nael'd it for UCOB",
-    "Description": "Translates Nael's quotes into mechanics.",
-    "Punchline": "because reading chat is not a mechanic",
-    "Changelog": "- updated for Dalamud api12",
-    "Tags": [
-      "ui"
-    ],
-    "InternalName": "NaelPlugin",
-    "AssemblyVersion": "1.5.0.1",
-    "RepoUrl": "https://github.com/Eisenhuth/dalamud-nael",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 12,
-    "IconUrl": "",
-    "ImageUrls": [
-      "https://user-images.githubusercontent.com/47415874/229924485-b9589532-f193-47ec-ad97-973218d4c916.png"
-    ],
-    "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
-    "DownloadCount": 10152,
-    "LastUpdated": 1742945006
   }
 ]
