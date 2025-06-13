@@ -1,6 +1,32 @@
 [
   {
     "Author": "Eisenhuth",
+    "Name": "ChatGPT for FFXIV",
+    "Description": "Lets you interact with ChatGPT through the in-game chat. Configuration requires an API key.",
+    "Punchline": "has science gone too far?",
+    "Changelog": "- updated for Dalamud api12",
+    "Tags": [
+      "ui",
+      "chat",
+      "ai"
+    ],
+    "InternalName": "ChatGPTPlugin",
+    "AssemblyVersion": "1.1.2.2",
+    "RepoUrl": "https://github.com/Eisenhuth/dalamud-chatgpt",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 12,
+    "IconUrl": "",
+    "ImageUrls": null,
+    "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
+    "DownloadCount": 894,
+    "LastUpdated": 1742945193
+  },
+  {
+    "Author": "Eisenhuth",
     "Name": "LogChamp",
     "Description": "automatically deletes your ACT logs after a configurable amount of time",
     "Punchline": "keep your ACT's FFXIVLogs folder in check",
@@ -23,34 +49,8 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
-    "DownloadCount": 3208,
+    "DownloadCount": 3220,
     "LastUpdated": 1742945099
-  },
-  {
-    "Author": "Eisenhuth",
-    "Name": "ChatGPT for FFXIV",
-    "Description": "Lets you interact with ChatGPT through the in-game chat. Configuration requires an API key.",
-    "Punchline": "has science gone too far?",
-    "Changelog": "- updated for Dalamud api12",
-    "Tags": [
-      "ui",
-      "chat",
-      "ai"
-    ],
-    "InternalName": "ChatGPTPlugin",
-    "AssemblyVersion": "1.1.2.2",
-    "RepoUrl": "https://github.com/Eisenhuth/dalamud-chatgpt",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 12,
-    "IconUrl": "",
-    "ImageUrls": null,
-    "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
-    "DownloadCount": 893,
-    "LastUpdated": 1742945193
   },
   {
     "Author": "Eisenhuth",
@@ -75,7 +75,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
-    "DownloadCount": 10323,
+    "DownloadCount": 10337,
     "LastUpdated": 1742945006
   }
 ]
