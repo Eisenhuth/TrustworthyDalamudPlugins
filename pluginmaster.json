@@ -1,32 +1,6 @@
 [
   {
     "Author": "Eisenhuth",
-    "Name": "Nael'd it for UCOB",
-    "Description": "Translates Nael's quotes into mechanics.",
-    "Punchline": "because reading chat is not a mechanic",
-    "Changelog": "- updated for Dalamud api13",
-    "Tags": [
-      "ui"
-    ],
-    "InternalName": "NaelPlugin",
-    "AssemblyVersion": "1.5.0.2",
-    "RepoUrl": "https://github.com/Eisenhuth/dalamud-nael",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 13,
-    "IconUrl": "",
-    "ImageUrls": [
-      "https://user-images.githubusercontent.com/47415874/229924485-b9589532-f193-47ec-ad97-973218d4c916.png"
-    ],
-    "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
-    "DownloadCount": 10551,
-    "LastUpdated": 1754616085
-  },
-  {
-    "Author": "Eisenhuth",
     "Name": "LogChamp",
     "Description": "automatically deletes your ACT logs after a configurable amount of time",
     "Punchline": "keep your ACT's FFXIVLogs folder in check",
@@ -49,8 +23,34 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
-    "DownloadCount": 3269,
+    "DownloadCount": 3835,
     "LastUpdated": 1754616146
+  },
+  {
+    "Author": "Eisenhuth",
+    "Name": "Nael'd it for UCOB",
+    "Description": "Translates Nael's quotes into mechanics.",
+    "Punchline": "because reading chat is not a mechanic",
+    "Changelog": "- updated for Dalamud api13",
+    "Tags": [
+      "ui"
+    ],
+    "InternalName": "NaelPlugin",
+    "AssemblyVersion": "1.5.0.2",
+    "RepoUrl": "https://github.com/Eisenhuth/dalamud-nael",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 13,
+    "IconUrl": "",
+    "ImageUrls": [
+      "https://user-images.githubusercontent.com/47415874/229924485-b9589532-f193-47ec-ad97-973218d4c916.png"
+    ],
+    "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
+    "DownloadCount": 11659,
+    "LastUpdated": 1754616085
   },
   {
     "Author": "Eisenhuth",
@@ -75,7 +75,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
-    "DownloadCount": 915,
+    "DownloadCount": 947,
     "LastUpdated": 1754616232
   }
 ]
