@@ -1,30 +1,29 @@
 [
   {
     "Author": "Eisenhuth",
-    "Name": "LogChamp",
-    "Description": "automatically deletes your ACT logs after a configurable amount of time",
-    "Punchline": "keep your ACT's FFXIVLogs folder in check",
+    "Name": "ChatGPT for FFXIV",
+    "Description": "Lets you interact with ChatGPT through the in-game chat. Configuration requires an API key.",
+    "Punchline": "has science gone too far?",
     "Changelog": "- updated for Dalamud api13",
     "Tags": [
-      "log",
-      "act"
+      "ui",
+      "chat",
+      "ai"
     ],
-    "InternalName": "LogchampPlugin",
-    "AssemblyVersion": "1.0.7.3",
-    "RepoUrl": "https://github.com/Eisenhuth/dalamud-logchamp",
+    "InternalName": "ChatGPTPlugin",
+    "AssemblyVersion": "1.1.2.3",
+    "RepoUrl": "https://github.com/Eisenhuth/dalamud-chatgpt",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
     "IconUrl": "",
-    "ImageUrls": [
-      "https://user-images.githubusercontent.com/47415874/233871863-846e1485-fd0f-429e-bc23-3f6009478a16.png"
-    ],
-    "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
+    "ImageUrls": null,
+    "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
-    "DownloadCount": 3876,
-    "LastUpdated": 1754616146
+    "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
+    "DownloadCount": 961,
+    "LastUpdated": 1754616232
   },
   {
     "Author": "Eisenhuth",
@@ -49,33 +48,34 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
-    "DownloadCount": 11761,
+    "DownloadCount": 11820,
     "LastUpdated": 1754616085
   },
   {
     "Author": "Eisenhuth",
-    "Name": "ChatGPT for FFXIV",
-    "Description": "Lets you interact with ChatGPT through the in-game chat. Configuration requires an API key.",
-    "Punchline": "has science gone too far?",
+    "Name": "LogChamp",
+    "Description": "automatically deletes your ACT logs after a configurable amount of time",
+    "Punchline": "keep your ACT's FFXIVLogs folder in check",
     "Changelog": "- updated for Dalamud api13",
     "Tags": [
-      "ui",
-      "chat",
-      "ai"
+      "log",
+      "act"
     ],
-    "InternalName": "ChatGPTPlugin",
-    "AssemblyVersion": "1.1.2.3",
-    "RepoUrl": "https://github.com/Eisenhuth/dalamud-chatgpt",
+    "InternalName": "LogchampPlugin",
+    "AssemblyVersion": "1.0.7.3",
+    "RepoUrl": "https://github.com/Eisenhuth/dalamud-logchamp",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
     "IconUrl": "",
-    "ImageUrls": null,
-    "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
+    "ImageUrls": [
+      "https://user-images.githubusercontent.com/47415874/233871863-846e1485-fd0f-429e-bc23-3f6009478a16.png"
+    ],
+    "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
-    "DownloadCount": 956,
-    "LastUpdated": 1754616232
+    "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
+    "DownloadCount": 3906,
+    "LastUpdated": 1754616146
   }
 ]
