@@ -48,7 +48,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
-    "DownloadCount": 11820,
+    "DownloadCount": 11830,
     "LastUpdated": 1754616085
   },
   {
@@ -56,13 +56,13 @@
     "Name": "LogChamp",
     "Description": "automatically deletes your ACT logs after a configurable amount of time",
     "Punchline": "keep your ACT's FFXIVLogs folder in check",
-    "Changelog": "- updated for Dalamud api13",
+    "Changelog": "- fixed a possible crash when using IINACT instead of ACT",
     "Tags": [
       "log",
       "act"
     ],
     "InternalName": "LogchampPlugin",
-    "AssemblyVersion": "1.0.7.3",
+    "AssemblyVersion": "1.0.7.4",
     "RepoUrl": "https://github.com/Eisenhuth/dalamud-logchamp",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
@@ -75,7 +75,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
-    "DownloadCount": 3906,
-    "LastUpdated": 1754616146
+    "DownloadCount": 3907,
+    "LastUpdated": 1756525260
   }
 ]
