@@ -4,17 +4,17 @@
     "Name": "ChatGPT for FFXIV",
     "Description": "Lets you interact with ChatGPT through the in-game chat. Configuration requires an API key.",
     "Punchline": "has science gone too far?",
-    "Changelog": "- updated for Dalamud api13",
+    "Changelog": "- updated for Dalamud api14",
     "Tags": [
       "ui",
       "chat",
       "ai"
     ],
     "InternalName": "ChatGPTPlugin",
-    "AssemblyVersion": "1.1.2.3",
+    "AssemblyVersion": "1.1.2.4",
     "RepoUrl": "https://github.com/Eisenhuth/dalamud-chatgpt",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 13,
+    "DalamudApiLevel": 14,
     "IconUrl": "",
     "ImageUrls": null,
     "DownloadLinkInstall": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
@@ -23,23 +23,23 @@
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
     "DownloadCount": 1017,
-    "LastUpdated": 1754616232
+    "LastUpdated": 1766132942
   },
   {
     "Author": "Eisenhuth",
     "Name": "LogChamp",
     "Description": "automatically deletes your ACT logs after a configurable amount of time",
     "Punchline": "keep your ACT's FFXIVLogs folder in check",
-    "Changelog": "- fixed a possible crash when using IINACT instead of ACT",
+    "Changelog": "- updated for Dalamud api14",
     "Tags": [
       "log",
       "act"
     ],
     "InternalName": "LogchampPlugin",
-    "AssemblyVersion": "1.0.7.4",
+    "AssemblyVersion": "1.0.7.5",
     "RepoUrl": "https://github.com/Eisenhuth/dalamud-logchamp",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 13,
+    "DalamudApiLevel": 14,
     "IconUrl": "",
     "ImageUrls": [
       "https://user-images.githubusercontent.com/47415874/233871863-846e1485-fd0f-429e-bc23-3f6009478a16.png"
@@ -50,22 +50,22 @@
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-logchamp/releases/latest/download/latest.zip",
     "DownloadCount": 4653,
-    "LastUpdated": 1756525260
+    "LastUpdated": 1766132793
   },
   {
     "Author": "Eisenhuth",
     "Name": "Nael'd it for UCOB",
-    "Description": "Translates Nael's quotes into mechanics.",
+    "Description": "Dalamud Plugin that translates Nael's quotes",
     "Punchline": "because reading chat is not a mechanic",
-    "Changelog": "- updated for Dalamud api13",
+    "Changelog": "- updated for Dalamud api14",
     "Tags": [
       "ui"
     ],
     "InternalName": "NaelPlugin",
-    "AssemblyVersion": "1.5.0.2",
+    "AssemblyVersion": "1.5.0.3",
     "RepoUrl": "https://github.com/Eisenhuth/dalamud-nael",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 13,
+    "DalamudApiLevel": 14,
     "IconUrl": "",
     "ImageUrls": [
       "https://user-images.githubusercontent.com/47415874/229924485-b9589532-f193-47ec-ad97-973218d4c916.png"
@@ -76,6 +76,6 @@
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
     "DownloadCount": 12328,
-    "LastUpdated": 1754616085
+    "LastUpdated": 1766132894
   }
 ]
