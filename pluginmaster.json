@@ -4,14 +4,14 @@
     "Name": "ChatGPT for FFXIV",
     "Description": "Lets you interact with ChatGPT through the in-game chat. Configuration requires an API key.",
     "Punchline": "has science gone too far?",
-    "Changelog": "- updated for Dalamud api14",
+    "Changelog": "- updated model",
     "Tags": [
       "ui",
       "chat",
       "ai"
     ],
     "InternalName": "ChatGPTPlugin",
-    "AssemblyVersion": "1.1.2.4",
+    "AssemblyVersion": "1.1.2.5",
     "RepoUrl": "https://github.com/Eisenhuth/dalamud-chatgpt",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
@@ -23,7 +23,7 @@
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-chatgpt/releases/latest/download/latest.zip",
     "DownloadCount": 1464,
-    "LastUpdated": 1766132942
+    "LastUpdated": 1771103957
   },
   {
     "Author": "Eisenhuth",
@@ -48,7 +48,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Eisenhuth/dalamud-nael/releases/latest/download/latest.zip",
-    "DownloadCount": 14271,
+    "DownloadCount": 14280,
     "LastUpdated": 1766132894
   },
   {
